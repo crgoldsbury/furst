@@ -1,2 +1,2 @@
-# maize
-Work on the maize genome
+# Furst
+#*WORK IN PROGRESS* 
